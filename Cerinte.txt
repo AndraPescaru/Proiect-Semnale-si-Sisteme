@@ -1,0 +1,9 @@
+Problema 1
+
+Pentru o sumă formată din semnal dreptunghiular neperiodic + sinusoidală cu amplitudine și frecvență aleatoare, realizați modulație de tip MA. Analizați 
+toate semnalele implicate (timp, frecvență, comparații).
+
+Problema 2
+
+Un semnal dreptunghiular periodic modulează MA-PS un semnal cu frecvența purtătoare Fp1. La rândul său, cel de-al doilea semnal modulează MA un semnal cu 
+frecvența purtătoare Fp2. Analizați toate semnalele implicate(timp, frecvență, comparații).
